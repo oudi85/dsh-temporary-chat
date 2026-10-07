@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.*
+.dsh/
+.dsh-temporary-chat-backup/
+*.log
+*.tgz
+coverage/
